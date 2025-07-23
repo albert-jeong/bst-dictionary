@@ -1,2 +1,2 @@
 # bst-dictionary
-BST-based Dictionary Program (So. Spring)
+BST-based Dictionary Program (So. Spring, Data Structure)
